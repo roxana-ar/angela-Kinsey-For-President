@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+img {
+    height: 200px;
+    border: 10px Dotted Black;
+    display: flex;
+    justify-content:flex-start;
+}
+.cats {
+    display:flex;
+    justify-content: center;
+    
+    
+}
